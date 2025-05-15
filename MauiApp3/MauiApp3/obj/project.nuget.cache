@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "veP2fn/lRylPrIFVmwqoQU7ZWMaKsX688ZnvGgt7Ll6RJWIskAxVO/8pPJosx946N8mYtP5u2KrX00CQF/DaMA==",
+  "success": false,
+  "projectFilePath": "C:\\D Drive\\dotnetmauiproject\\DotNetTestProject\\MauiApp3\\MauiApp3\\MauiApp3.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Platform version is not present for one or more target frameworks, even though they have specified a platform: net9.0-android, net9.0-ios, net9.0-maccatalyst"
+    }
+  ]
+}
